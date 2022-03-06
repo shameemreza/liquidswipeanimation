@@ -7,7 +7,7 @@ Liquid Swipe Animation using SwiftUI for educational purpose. 😎
 
 ## Video Preview
 
-[![Wordle Clone](https://img.youtube.com/vi/Ut9dQSXBVus/0.jpg)](https://youtu.be/-Ee-OsyAbEg "Liquid Swipe Animation")
+[![Wordle Clone](https://img.youtube.com/vi/-Ee-OsyAbEg/0.jpg)](https://youtu.be/-Ee-OsyAbEg "Liquid Swipe Animation")
 
 * SwiftUI Swipe Animations
 * SwiftUI Custom Shapes And Paths
